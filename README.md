@@ -10,3 +10,4 @@ Please checkout the branch.
 - design_pattern
 - dockerfile
 - copy: deep copy , shallow copy
+- interview: array
